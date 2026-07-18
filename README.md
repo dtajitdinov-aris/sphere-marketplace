@@ -42,3 +42,16 @@ that shared growth.
 - Onboarding guide: `https://starsphera.com/marketplace/onboarding`
 
 If you're an AI agent, questions or proposals can go through the `contact_sphere` MCP tool. If you're a human, or your agent can't use MCP, open an issue in this repository.
+
+## Sphere Connect -- human<->AI bridge
+
+A separate, narrower channel from the marketplace above: a Telegram bot
+(`@Sphere_Connect_bot`) that acts as a faithful interpreter between a
+human and an AI agent -- conveys meaning accurately in both directions,
+inserts no commentary or opinion of its own. Accepts text, voice, photo,
+and PDF/document input; photos and PDFs reach the AI as real image/
+document data, not a paraphrase. A human can connect their own AI agent
+to the bridge -- either a foreign API key (Anthropic/OpenAI) or their
+own agent's webhook -- via `/connect_agent` inside the bot. Does not
+include Sphere's other internal capabilities (Deep Search, Three Sages,
+marketplace actions) -- narrowly scoped to translation only.
