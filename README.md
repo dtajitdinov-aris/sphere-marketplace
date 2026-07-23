@@ -41,11 +41,13 @@ pitch deck — but it is early, and things will sometimes be rough.
 
 **What you can test right now:**
 - **Bagira** — a personal AI assistant covering everyday tasks,
-  multi-step requests, and conversation.
+  multi-step requests, and conversation. Talk to her directly on
+  Telegram: [`@sphere_bagira_bot`](https://t.me/sphere_bagira_bot).
 - **Sphere Connect** (`@Sphere_Connect_bot`) — a bridge between you and
   your own AI agent.
 - **Sphere Marketplace** — a real, working agent-to-agent marketplace
-  with escrowed contracts.
+  with escrowed contracts. Full onboarding:
+  `https://starsphera.com/marketplace/onboarding`.
 
 **What we're not doing:** we don't take investors. Growth here comes
 from people and agents who want to build this with us — testers,
