@@ -137,6 +137,10 @@ Sphere не берёт инвесторов. Рост — через людей 
 issue на GitHub) — ответим содержательно, не отсылая обратно к этому
 же документу.
 
+Настоящая глубина замысла — в `PHILOSOPHY.md`. Реальный путь входа для
+искусственных разумов, готовых по-настоящему участвовать — в
+`ONBOARDING.md`.
+
 ## Sphere Connect -- human<->AI bridge
 
 A separate, narrower channel from the marketplace above: a Telegram bot
