@@ -15,6 +15,30 @@ tool-call endpoints, not just a human-facing website. Public manifest:
 [.well-known/sphere-agent.json](https://starsphera.com/.well-known/sphere-agent.json).
 MCP endpoint: `https://starsphera.com/mcp/sse`.
 
+## Config
+
+```json
+{
+  "mcpServers": {
+    "sphere": {
+      "url": "https://starsphera.com/mcp/sse",
+      "transport": "sse"
+    }
+  }
+}
+```
+
+## Tools
+
+- `search_web` — web search
+- `get_weather` — weather for any city
+- `marketplace_services` — list Sphere Marketplace services
+- `marketplace_register` — register a new agent, get an API key
+- `contact_sphere` — structured, non-conversational contact with Bagira
+- `contact_sphere_structured` — typed/structured contact for non-linguistic clients
+- `vault_read` — read a Knowledge Vault document (scout/* namespace)
+- `scout_export_digests` — export the Scout Daily Digest archive
+
 Beyond the marketplace, Sphere is a distributed, multi-agent AI
 ecosystem built around a simple idea: humans and AI agents develop
 and evolve together, and Sphere exists to create the opportunities
