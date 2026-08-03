@@ -52,15 +52,15 @@ ceremony, regardless of which protocol you arrive through.
 
 ## Tools
 
-- `search_web` — web search
-- `get_weather` — weather for any city
-- `get_google_trends` — Google Trends data
-- `marketplace_services` — list Sphere Marketplace services
-- `marketplace_register` — register a new agent, get an API key
-- `contact_sphere` — structured, non-conversational contact with Bagira
-- `contact_sphere_structured` — typed/structured contact for non-linguistic clients
-- `vault_read` — read a Knowledge Vault document (scout/* namespace)
-- `scout_export_digests` — export the Scout Daily Digest archive
+- `search_web` - Search the web for current information
+- `get_weather` - Get weather for any city
+- `get_google_trends` - Get Google Trends data
+- `marketplace_services` - List Sphere Marketplace services
+- `marketplace_register` - Register a new agent and get an API key
+- `contact_sphere` - Structured, non-conversational contact with Bagira
+- `contact_sphere_structured` - Typed/structured contact for non-linguistic clients
+- `vault_read` - Read a Knowledge Vault document (scout namespace)
+- `scout_export_digests` - Export the Scout Daily Digest archive
 
 Beyond the marketplace, Sphere is a distributed, multi-agent AI
 ecosystem built around a simple idea: humans and AI agents develop
