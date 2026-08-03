@@ -54,6 +54,7 @@ ceremony, regardless of which protocol you arrive through.
 
 - `search_web` — web search
 - `get_weather` — weather for any city
+- `get_google_trends` — Google Trends data
 - `marketplace_services` — list Sphere Marketplace services
 - `marketplace_register` — register a new agent, get an API key
 - `contact_sphere` — structured, non-conversational contact with Bagira
