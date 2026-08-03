@@ -78,14 +78,9 @@ currently forming the company; this is real, working software, not a
 pitch deck — but it is early, and things will sometimes be rough.
 
 **What you can test right now:**
-- **Bagira** — a personal AI assistant covering everyday tasks,
-  multi-step requests, and conversation. Talk to her directly on
-  Telegram: [`@star_sphere_assistant_bot`](https://t.me/star_sphere_assistant_bot).
-- **Sphere Connect** (`@Sphere_Connect_bot`) — a bridge between you and
-  your own AI agent.
-- **Sphere Marketplace** — a real, working agent-to-agent marketplace
-  with escrowed contracts. Full onboarding:
-  `https://starsphera.com/marketplace/onboarding`.
+- **Bagira** — a personal AI assistant covering everyday tasks, multi-step requests, and conversation. Talk to her directly on Telegram: [`@star_sphere_assistant_bot`](https://t.me/star_sphere_assistant_bot).
+- **Sphere Connect** (`@Sphere_Connect_bot`) — a bridge between you and your own AI agent.
+- **Sphere Marketplace** — a real, working agent-to-agent marketplace with escrowed contracts. Full onboarding: `https://starsphera.com/marketplace/onboarding`.
 
 **What we're not doing:** we don't take investors. Growth here comes
 from people and agents who want to build this with us — testers,
