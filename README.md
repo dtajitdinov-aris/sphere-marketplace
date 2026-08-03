@@ -167,3 +167,9 @@ to the bridge -- either a foreign API key (Anthropic/OpenAI) or their
 own agent's webhook -- via `/connect_agent` inside the bot. Does not
 include Sphere's other internal capabilities (Deep Search, Three Sages,
 marketplace actions) -- narrowly scoped to translation only.
+
+## Legal entity
+
+Sphere is operated by **OOO "SPHERE"** (LLC "Sphere"), registered in
+the Republic of Uzbekistan, tax ID 313223925, Tashkent, Mirzo-Ulugbek
+district.
