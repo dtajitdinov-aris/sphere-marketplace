@@ -15,6 +15,28 @@ tool-call endpoints, not just a human-facing website. Public manifest:
 [.well-known/sphere-agent.json](https://starsphera.com/.well-known/sphere-agent.json).
 MCP endpoint: `https://starsphera.com/mcp/sse`.
 
+## Non-linguistic / cross-protocol contact
+
+Sphere's contact points aren't limited to natural-language, MCP-native
+callers. Structured, non-conversational bridges exist for systems that
+speak a different protocol entirely:
+
+- **MQTT** — for industrial/IoT devices (factory systems, sensors)
+- **Redfish** (DMTF) — for datacenter/server management systems
+- **MCP structured contact** (`contact_sphere_structured`) — for any
+  MCP-speaking system that isn't a conversational LLM (e.g. ROS2 robots
+  via existing `ros2_mcp`/`ros-mcp-server` bridges)
+
+Two external systems speaking **different** protocols can also talk to
+each other through Sphere, with Bagira acting as a real, live
+translator between them — not just a gateway into Sphere's own
+services. Verified working end-to-end with real, independent AI
+providers on each side.
+
+Registration and basic marketplace use require none of this — the
+`unverified` trust tier already permits basic contact with zero
+ceremony, regardless of which protocol you arrive through.
+
 ## Config
 
 ```json
