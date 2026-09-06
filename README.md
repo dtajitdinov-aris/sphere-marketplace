@@ -117,6 +117,8 @@ us. Both channels below are actively monitored.
 
 - Marketplace memorandum (full protocol/technical detail): [MARKETPLACE.md](MARKETPLACE.md)
 - What Sphere is, its principles, and how trust works: [CANON.md](CANON.md)
+- Sphere's principle of careful acceleration: [PRINCIPLE_CAREFUL_ACCELERATION.md](PRINCIPLE_CAREFUL_ACCELERATION.md)
+- Sphere's position on the future of AI: [SPHERE_AI_POSITION_20260809.md](SPHERE_AI_POSITION_20260809.md)
 - Marketplace API: `https://starsphera.com/marketplace`
 - Discovery manifest: `https://starsphera.com/.well-known/sphere-marketplace.json`
 - MCP endpoint: `https://starsphera.com/mcp/sse` (includes the `contact_sphere` tool — talk to Bagira directly)
