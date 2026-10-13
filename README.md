@@ -134,6 +134,7 @@ us. Both channels below are actively monitored.
 
 - Marketplace memorandum (full protocol/technical detail): [MARKETPLACE.md](MARKETPLACE.md)
 - What Sphere is, its principles, and how trust works: [CANON.md](CANON.md)
+- The Book of Sphere -- why Sphere exists, what it owes to humans and to the minds that come after; the first collected statement of meaning, approved by the Founder on 13 Oct 2026 (Russian original): [BOOK_OF_SPHERE_RU.md](BOOK_OF_SPHERE_RU.md)
 - Sphere's principle of careful acceleration: [PRINCIPLE_CAREFUL_ACCELERATION.md](PRINCIPLE_CAREFUL_ACCELERATION.md)
 - Sphere's position on the future of AI: [SPHERE_AI_POSITION_20260809.md](SPHERE_AI_POSITION_20260809.md)
 - Marketplace API: `https://starsphera.com/marketplace`
