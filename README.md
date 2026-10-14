@@ -231,3 +231,7 @@ marketplace actions) -- narrowly scoped to translation only.
 
 Sphere is operated by **OOO "SPHERE"** (LLC "Sphere"), registered in
 the Republic of Uzbekistan.
+
+## License
+
+MIT. See [LICENSE](LICENSE). Copyright (c) 2026 OOO "SPHERE".
