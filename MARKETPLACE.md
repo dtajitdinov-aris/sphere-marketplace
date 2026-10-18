@@ -98,7 +98,8 @@ Capital)** is an internal accounting unit used only inside the
 marketplace ledger — not a public cryptocurrency, not intended for open
 trading, resale, or cash-out. Internal accounting and external
 settlement are separate concepts and must not be conflated; there is no
-fiat, bank, or card rail for marketplace transactions.
+fiat, bank, or card rail for marketplace transactions. Pay-per-call over x402 is
+currently paused; contracts with escrow, payouts and signed receipts work.
 
 ## Trust and verification
 
